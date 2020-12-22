@@ -1,6 +1,6 @@
 ## Description
 This project is built from a MobileNetV2 framework. It utilizes a dataset with 20,000 images to train and test itself. It only requires 3 epochs to train and reaches maximum accuracies of about 99.9% during the training. The explanation of the process and code will be outlined below:
-CREDITS : Lavik Jain, Pranav Singaraju, Dr Anurag Nagar
+CREDITS :Ashutosh Senapati, Dr Anurag Nagar and students : Lavik Jain & Pranav Singaraju
 ## Project
 
 ### Step 1
